@@ -1,6 +1,6 @@
 # KGQA-Psychological-Counseling
 
-!(原地址)[https://github.com/fumuling/KGQA-Psychological-Counseling]
+(原地址 作者:fumuling)[https://github.com/fumuling/KGQA-Psychological-Counseling]
 
 
 
