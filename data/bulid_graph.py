@@ -9,10 +9,7 @@ class PsychologyGraph:
         定义连接neo4j数据库
         """
         self.connection = py2neo.Graph(
-            host='127.0.0.1',
-            http_port=7474,
-            user='neo4j',
-            password='ccLL.86916'
+            'http://localhost:7474', auth=('neo4j', 'aks123456'),name='neo4j'
         )
 
         self.diseases = []  # 疾病
